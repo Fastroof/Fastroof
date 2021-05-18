@@ -1,8 +1,0 @@
----
-- hosts: iaas
-  roles:
-    - create_file
-    
-- hosts: all
-  roles:
-    - get_info
